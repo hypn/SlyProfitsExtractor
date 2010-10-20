@@ -1,0 +1,1 @@
+This code was written in "AutoIt" - http://www.autoitscript.com/autoit3/
